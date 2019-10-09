@@ -26,6 +26,10 @@ We'll be opening some issues to work on soon! You'll be able to find them by cli
 If you have a project on GitHub that could use some extra eyes/hands, please let us know and we can also link the issue here!  
   
 You can search GitHub for [issues](https://github.com/search?q=is%3Aopen+label%3Ahacktoberfest&state=open&type=Issues) that have been tagged as a good way to contribute to Hacktoberfest.   
+  
+*Currently Open Issues*  
+  
+* [Add a photo of this event to our website](https://github.com/rladies-chicago/rladies-chicago.github.io/issues/3)  
     
 ### GitHub Resources  
   
