@@ -27,8 +27,9 @@ If you have a project on GitHub that could use some extra eyes/hands, please let
   
 You can search GitHub for [issues](https://github.com/search?q=is%3Aopen+label%3Ahacktoberfest&state=open&type=Issues) that have been tagged as a good way to contribute to Hacktoberfest.   
   
-*Currently Open Issues*  
+#### Currently Open Issues  
   
+* [Add your name to the `contributors.md` file](https://github.com/rladies-chicago/2019-10-29-hacktoberfest/issues/1)  
 * [Add a photo of this event to our website](https://github.com/rladies-chicago/rladies-chicago.github.io/issues/3)  
     
 ### GitHub Resources  
