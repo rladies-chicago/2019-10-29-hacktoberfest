@@ -31,6 +31,7 @@ You can search GitHub for [issues](https://github.com/search?q=is%3Aopen+label%3
   
 * [Add your name to the `contributors.md` file](https://github.com/rladies-chicago/2019-10-29-hacktoberfest/issues/1)  
 * [Add a photo of this event to our website](https://github.com/rladies-chicago/rladies-chicago.github.io/issues/3)  
+* [R-Ladies D3 Study Group Issues](https://github.com/rladies-chicago/D3_Study_Group/issues)
     
 ### GitHub Resources  
   
