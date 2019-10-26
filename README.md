@@ -23,15 +23,15 @@ Hacktoberfest is an opportunity to contribute to others' projects on GitHub. Peo
   
 We'll be opening some issues to work on soon! You'll be able to find them by clicking on the "Issues" tab at the top of a given repo. We'll include some links to these issues here within reason.  
   
-If you have a project on GitHub that could use some extra eyes/hands, please let us know and we can also link the issue here!  
+If you have a project on GitHub that could use some extra eyes/hands, please let us know and label it with `rladies-chicago`. We can also link the issue here!  
   
 You can search GitHub for [issues](https://github.com/search?q=is%3Aopen+label%3Ahacktoberfest&state=open&type=Issues) that have been tagged as a good way to contribute to Hacktoberfest.   
   
 #### Currently Open Issues  
   
-* [Add your name to the `contributors.md` file](https://github.com/rladies-chicago/2019-10-29-hacktoberfest/issues/1)  
-* [Add a photo of this event to our website](https://github.com/rladies-chicago/rladies-chicago.github.io/issues/3)  
-* [R-Ladies D3 Study Group Issues](https://github.com/rladies-chicago/D3_Study_Group/issues)
+* See issues that are aimed for R-Ladies Chicago members to work on by searching [label:rladieschicago](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Arladies-chicago)  
+* [R-Ladies D3 Study Group Issues](https://github.com/rladies-chicago/D3_Study_Group/issues)  
+* The Carpentries need our help with their blog post [tagathon](https://carpentries.org/blog/2019/10/carpentries-tagathon/]!  
     
 ### GitHub Resources  
   
