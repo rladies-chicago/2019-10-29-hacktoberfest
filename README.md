@@ -31,7 +31,7 @@ You can search GitHub for [issues](https://github.com/search?q=is%3Aopen+label%3
   
 * See issues that are aimed for R-Ladies Chicago members to work on by searching [label:rladieschicago](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3Arladies-chicago)  
 * [R-Ladies D3 Study Group Issues](https://github.com/rladies-chicago/D3_Study_Group/issues)  
-* The Carpentries need our help with their blog post [tagathon](https://carpentries.org/blog/2019/10/carpentries-tagathon/]!  
+* The Carpentries need our help with their blog post [tagathon](https://carpentries.org/blog/2019/10/carpentries-tagathon/)!  
     
 ### GitHub Resources  
   
