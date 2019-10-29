@@ -35,7 +35,14 @@ You can search GitHub for [issues](https://github.com/search?q=is%3Aopen+label%3
     
 ### GitHub Resources  
   
-* Explanation of [GitHub Flow](https://guides.github.com/introduction/flow/)  
+* Explanation of [GitHub Flow](https://guides.github.com/introduction/flow/)   
+* [GitHub Glossary](https://help.github.com/en/github/getting-started-with-github/github-glossary) with useful terms.
 * Quick Git [cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)  
 * In November 2018, our co-organizer Ola did a git tutorial. You can see info and materials from that tutorial [here](https://rladieschicago.org/talk/2018-11-13-meetup/).  
-  * Daniel Shiffman's Coding Train Github Tutorial [Youtube Vidoes](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+  * Daniel Shiffman's Coding Train Github Tutorial [Youtube Vidoes](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)  
+   
+#### Resources for making pull requests from forks 
+  
+* [GitHub documentation](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork
+)  
+* [DigitalOcean tutorial](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
