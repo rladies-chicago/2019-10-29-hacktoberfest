@@ -5,3 +5,4 @@ If you attended our Hacktoberfest Meetup on 2019-10-29, please add your **name**
 Katherine!! :jack_o_lantern: 
 Mariia Melnikova!! :panda_face:
 Arya :octopus:	:hibiscus:	
+Mandy :musical_score:  
