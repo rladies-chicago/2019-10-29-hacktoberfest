@@ -11,5 +11,6 @@ Tiffany Christian :jeans:
 Susan :zap:  
 Emily :spider_web:  
 Dorothy!! :kissing:  
+Sydney :city_sunrise:  
 Angela :pig:  
 Caroline :sunny:  
