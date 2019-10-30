@@ -40,7 +40,8 @@ You can search GitHub for [issues](https://github.com/search?q=is%3Aopen+label%3
 * Quick Git [cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)  
 * In November 2018, our co-organizer Ola did a git tutorial. You can see info and materials from that tutorial [here](https://rladieschicago.org/talk/2018-11-13-meetup/).  
   * Daniel Shiffman's Coding Train Github Tutorial [Youtube Vidoes](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)  
-   
+* Create and publish R Markdown documents [using RStudio and GitHub Pages](https://resources.github.com/whitepapers/github-and-rstudio/)
+
 #### Resources for making pull requests from forks 
   
 * [GitHub documentation](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork
